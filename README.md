@@ -1,6 +1,7 @@
 # Boas vindas ao repositório do projeto de ES6 e Testes Unitários!
 
-### Projeto da Trybe:
+
+### Projeto da Trybe <img align="center" alt="Js" height="30" width="30" src="https://scontent.fcgh24-1.fna.fbcdn.net/v/t1.6435-9/129351852_2818690001753270_85015407846271114_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tfLU1xaTn3sAX-Ruhdi&_nc_ht=scontent.fcgh24-1.fna&oh=00_AT_ONAacPaQaVgYEDwZ6uN-6BJVveyEybKBI6q9NMKXB2Q&oe=6253555C">
 
 - **Formação -** Desenvolvimento Web Full Stack
 
@@ -9,7 +10,7 @@
 - **Bloco 07 -** Introdução à JavaScript ES6 e Testes Unitários
 
 ---
-### Contexto
+### Contexto :pencil:
 Neste projeto da Trybe é abordado:
 
 - Escrita de testes unitários para funções utilizando o módulo Assert do NodeJS para verificar o correto funcionamento dessas funções;
@@ -17,7 +18,8 @@ Neste projeto da Trybe é abordado:
 - Criação de testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
 ---
-### Técnologias usadas
+### Técnologias usadas :computer:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
@@ -31,7 +33,7 @@ Testes Unitários:
 > NodeJS
 
 ---
-### Instalando Dependências
+### Instalando Dependências :desktop_computer:
 
 > Diretório Raiz
 ```bash
@@ -39,9 +41,9 @@ cd sd-09-project-js-unit-tests/
 npm install
 ```
 ---
-### Executando Testes
+### Executando Testes :ballot_box_with_check:
 
-* Para rodar todos os testes:
+> Para rodar todos os testes:
 
   ```
     npm test
