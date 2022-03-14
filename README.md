@@ -50,15 +50,23 @@ npm install
   ```
 ---
 ### Contatos
+<h2 align="center">Cleber Lopes Teixeira</h2>
 
-## Cleber Lopes Teixeira
+<p align="center">
+  <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFmdHcCCHE-Vw/profile-displayphoto-shrink_200_200/0/1621216320436?e=1650499200&v=beta&t=-jo6lhGIw5peMLFvIJzERqDLjIXFb27EOeAZ1CSBfw0" alt="Tela facebook" style="border-radius:5px;">
+  
+  <br />
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <a href="https://github.com/cleber-teixeira">cleber-teixeira</a>
+  
+  <br />
+  <img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  <a href="https://www.linkedin.com/in/cleberlopesteixeira/">cleberlopesteixeira</a>
 
- <img align="center" alt="Linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">: [cleberlopesteixeira](https://www.linkedin.com/in/cleberlopesteixeira/)
-
-<img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">: [cleber-teixeira](https://github.com/cleber-teixeira)
-
-<img align="center" alt="GitHub" height="20" width="30" src="https://s2.glbimg.com/R1uoCDVgdJggXlghX6YTXKg4M_U=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/d/Bg1T2vQa6ipZZBu9uXhw/2017-03-08-wwwmarketinglandcom-1.png"> : [cleber-teixeira](https://github.com/cleber-teixeira): cleberlt@gmail.com
-
-![Foto: Cleber Teixeira](https://media-exp1.licdn.com/dms/image/C4D03AQFmdHcCCHE-Vw/profile-displayphoto-shrink_200_200/0/1621216320436?e=1650499200&v=beta&t=-jo6lhGIw5peMLFvIJzERqDLjIXFb27EOeAZ1CSBfw0)
+  <br />
+  <img align="center" alt="Gmail" height="20" width="30" src="https://s2.glbimg.com/R1uoCDVgdJggXlghX6YTXKg4M_U=/696x390/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/W/d/Bg1T2vQa6ipZZBu9uXhw/2017-03-08-wwwmarketinglandcom-1.png">
+  <a href="mailto:cleberlt@gmail.com">cleberlt@gmail.com</a>
+  
+</p>
 
 ---
