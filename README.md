@@ -9,6 +9,10 @@
 
 - **Bloco 07 -** Introdução à JavaScript ES6 e Testes Unitários
 
+<p align="center">
+  <img src="./project-js-unit-tests.gif" alt="Tela facebook 2" width="700">
+</p>
+
 ---
 ### Contexto :pencil:
 Neste projeto da Trybe é abordado:
